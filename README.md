@@ -1,2 +1,2 @@
 # ConsoleCalculatorSolution
-Calculator Exercise Solution (Console Application
+Calculator Exercise Solution (Console Application)
